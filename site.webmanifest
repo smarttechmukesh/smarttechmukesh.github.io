@@ -1,0 +1,65 @@
+{
+  "name": "Blog Name Here",
+  "short_name": "Blog Name Here",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "start_url": ".",
+  "scope": "/",
+  "background_color": "#fff",
+  "theme_color": "#6200ee",
+  "description": "Paste Your Blog Description Here. ",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s36",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s48",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s72",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s96",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s144",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEid7ksLFfccJ3lcHRpLN0KJpptbDgdFZJ7ysjALvAMKhZGZ0X_YpPc8J4Z6nFK1BOQKBjlBOo4xoPzOLgfY5Pr1v3-rf1AGv9NqkwJqhkNfiq8W_1NG043aXR_xMcIEqEV08HC9uuGKtxkK1s2JD6eLVHZhE5eXjFXR1RtxlOYR_YLrKLbgL5pd2AXz=s512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": "4.0",
+      "purpose": "any maskable"
+    }
+  ],
+  "serviceworker": {
+    "src": "https:tools.smarttechmukesh.com/sw.js"
+  }
+}
